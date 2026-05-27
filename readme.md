@@ -1,3 +1,3 @@
-#This is our Bug Branch
+#This is our Feature Branch
 
 This is git Course
